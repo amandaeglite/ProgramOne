@@ -1,4 +1,4 @@
 ﻿# Latvijas dievības
 
-Šī programma ir neliela Latvijas mitoloģijas un dievību enciklopēdija.
+Šī programma ir neliela Latvijas mitoloģijas un dievību enciklopēdija ⛈.
 
