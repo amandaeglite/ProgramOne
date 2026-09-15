@@ -1,5 +1,6 @@
-﻿print("LATVIEŠU DIEVĪBAS")
-print("=================")
+﻿print("================================")
+print("       LATVIEŠU DIEVĪBAS")
+print("================================")
 print()
 
 print("1. Saule")
